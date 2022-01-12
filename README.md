@@ -5,8 +5,8 @@ Currently a [product designer in Singapore](https://linkedin.com/in/samanthadotd
 
 With a background in development, I hope to effectively 
 
-- 🛠 explore solutions with a bigger toolset,
-- 🌈 create performant microinteractions, and
+- 🛠 explore design solutions with a bigger toolset,
+- 🌈 create high performance digital products, and 
 - 🤝 improve designer-developer collaboration
 
 Technologies
